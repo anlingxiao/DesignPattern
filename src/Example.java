@@ -15,6 +15,6 @@ public class Example {
 
     public static void main(String[] args) {
         DynamicArray dynamicArray=new SortedDynamicArray();
-        test(dynamicArray);
+        test(dynamicArray); //打印结果：1 3 5
     }
 }
